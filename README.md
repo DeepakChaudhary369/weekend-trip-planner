@@ -34,8 +34,8 @@ Model used: `openai/gpt-oss-20b` via the Groq API.
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/DeepakChaudhary369/weekend-trip-planner/tree/main.git
+cd weekend-trip-planner
 ```
 
 ### 2. Create a virtual environment and install dependencies

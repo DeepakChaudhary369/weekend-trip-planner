@@ -524,4 +524,4 @@ Computer Science & Engineering — Data Science
 
 [GitHub](https://github.com/DeepakChaudhary369)
 
-[LinkedIn](https://www.linkedin.com/in/dipakch/)
+[LinkedIn](https://www.linkedin.com/in/deepakchaudhary369)

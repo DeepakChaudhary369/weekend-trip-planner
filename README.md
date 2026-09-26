@@ -11,7 +11,7 @@ The project started as a classroom exercise on building AI agents from scratch u
 [![Open Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20App-00A67E?style=for-the-badge)](https://weekend-trip-planner-qqrjysyvi8aztxaljcmwz6.streamlit.app/)
 
 👉 **Try the deployed application:**
-[YOUR_STREAMLIT_APP_URL](https://weekend-trip-planner-qqrjysyvi8aztxaljcmwz6.streamlit.app/)
+[https://weekend-trip-planner-qqrjysyvi8aztxaljcmwz6.streamlit.app/]
 
 ---
 
